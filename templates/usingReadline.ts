@@ -1,5 +1,4 @@
 export {};
-//이름
 
 const readline = require('readline');
 
